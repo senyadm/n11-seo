@@ -7,7 +7,7 @@ import Footer from '@/components/Footer' // <-- Не забудьте созда
 // Παράδειγμα μεταδεδομένων
 export const metadata: Metadata = {
   title: 'N1 Casino — καθρέφτης στην Ελλάδα',
-  description: 'Ανασκόπηση του ιστότοπου Casino N1 στην Ελλάδα. Εδώ θα βρείτε SEO κείμενο και περισσότερες πληροφορίες.',
+  description: 'Ανασκόπηση του ιστότοπου Casino N1 στην Ελλάδα.',
 }
 
 export default function RootLayout({

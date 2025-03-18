@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.n11.gr
+
+# Sitemaps
+Sitemap: https://www.n11.gr/sitemap.xml
