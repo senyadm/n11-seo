@@ -1,0 +1,7 @@
+/* app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Εδώ μπορείς να προσθέσεις και δικούς σου global κανόνες CSS, αν χρειάζεται. */
+
