@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 export default function SupportSection() {
   return (
     <section className="bg-brandDark text-white py-12">
@@ -46,10 +48,13 @@ export default function SupportSection() {
 
         {/* Вставка изображения */}
         <div className="mb-8">
-          <img
-            src="/images/support.jpg"
+          <Image
+            src="/images/support.webp"
             alt="Υποστήριξη"
-            className="mx-auto rounded-md max-w-full h-auto"
+            width={500}
+            height={300}
+            className="mx-auto rounded-md"
+            loading="lazy"
           />
         </div>
 

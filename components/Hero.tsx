@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       className="relative w-full h-screen bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: "url('/images/hook.jpg')" }}
+      style={{ backgroundImage: "url('/images/hook.webp')" }}
     >
       {/* Полупрозрачная подложка поверх фонового изображения */}
       <div className="absolute inset-0 bg-black/50" />
